@@ -1,2 +1,2 @@
-# LearningC-
+# LearningC#
 Course of C# language.
