@@ -1,0 +1,7 @@
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csprojAssemblyReference.cache
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\kaimo\Documents\Github\LearningC-\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
